@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1579141605 source:c:\users\psoar\documents\istec\1º ano\1º semestre\5 programação i - programação de computadores i\gestaoaulas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<time.h>
+
